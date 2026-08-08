@@ -156,18 +156,6 @@ KWin X11 doesn't see any API changes since version 6.5 meaning the Wayland and X
   ```
   sudo pacman -S base-devel git extra-cmake-modules vulkan-headers qt6-tools kwin-x11
   ```
-
-  **For container:**
-
-  Wayland:
-  ```
-  sudo pacman -S base-devel git extra-cmake-modules vulkan-headers rpm-tools qt6-tools kwin
-  ```
-  
-  X11:
-  ```
-  sudo pacman -S base-devel git extra-cmake-modules vulkan-headers rpm-tools qt6-tools kwin-x11
-  ```
 </details>
 
 <details>
